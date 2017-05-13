@@ -1,1 +1,3 @@
-sequenceDiagram\App.class
+sequenceDiagram/PlantUMLUtil.class
+sequenceDiagram/SequenceDiagram.class
+sequenceDiagram/JavaParserUtil.class
